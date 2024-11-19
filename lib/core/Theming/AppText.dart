@@ -1,0 +1,55 @@
+abstract class AppText{
+  static const String signUp="Sign up";
+  static const String createAnAccountToGetStarted="Create an account to get started";
+  static const String name="Name";
+  static const String email="Email";
+  static const String password="Password";
+  static const String phoneNumber="Phone";
+  static const String location="Location";
+  static const String signUpButton="Register";
+  static const String chooseImage="Choose photo";
+  static const String pleaseEnterYourName="please enter your name";
+  static const String pleaseEnterYourPhoneRight="please enter your phone right";
+  static const String theLengthOfTheNameIsTooShort="the length of the text is too short ";
+  static const String pleaseEnterValidEmail="please enter a valid email";
+  static const String pleaseEnterThePasswordAsFollows="please enter the password as follows";
+  static const String dontHaveAccount="Don\'t have an a account ?";
+  static const String alreadyHaveAnAccount="Already have an a account ?";
+  static const String signIn="Sign in";
+  static const String heyThereWelcomeBack="Hey there ! Welcome back";
+  static const String hereAreYourDreamThings="Here are your dream\n things";
+  static const String nameCache="nameCachee";
+  static const String phoneCache="phoneCachee";
+  static const String emailCache="emailCachee";
+  static const String passwordCache="passwordCachee";
+  static const String token="token";
+  static const String validationSpecialCharacter="has at least 1 character";
+  static const String validationUpperCase="has at least 1 uppercase letter";
+  static const String validationLowerCase="has at least 1 lowercase letter";
+  static const String validationTextLength="has at least 8 characters long";
+  static const String validationNumber="has at least 1 number";
+  static const String nameSignInModel="nameSignInModel";
+  static const String emailSignInModel="emailSignInModel";
+  static const String phoneSignInModel="phoneSignInModel";
+  static const String idSignInModel="idSignInModel";
+  static const String letsGetSomething="Let\'s get something";
+  static const String cacheBox="CacheBox";
+  static const String topSales="Top Sales";
+  static const String showMore="Show more";
+  static const String showLess="Show less";
+  static const String products="Products";
+  static const String categories="Catgeories";
+  static const String appName="Salla";
+  static const String profileEntityCache="pprofileCached";
+  static const String save="save";
+  static const String edit="edit";
+  static const String search="Search";
+  static const String addToCart="Add to cart";
+  static const String removeFromCart="Remove from cart";
+  static const String cartIsEmpty="Cart is Empty";
+  static const String favBox="myfavBox";
+}
+abstract class CacheText{
+  static const String tokenName="token";
+  static const String token="zys1p8BBkTNFo462ufFXLSasIfPL6fMB3d0boVyK4XZc9G9CFQ4y0JVxSZupdZhkVd6Gt8";
+}
